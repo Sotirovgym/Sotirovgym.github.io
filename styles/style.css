@@ -1,0 +1,26 @@
+.body-content {
+    margin-top:60px;
+}
+.author {
+    opacity: 0.7;
+}
+.footer {
+    text-align: right;
+    margin: 100px;
+}
+.navbar {
+    border-color:black;
+    background-color:#2e6da4;   
+}
+.navbar-default .navbar-brand {
+    color:white;
+}
+.navbar-default .navbar-nav>li>a {
+    color:white;
+}
+.btn {
+    
+}
+
+
+
